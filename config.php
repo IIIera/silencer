@@ -7,11 +7,11 @@ $db_data = ['sqlite:silentc.db'];
 $cfg = [
 	# Users that can use the special commands
 	'sudoers' => [
-		276145711,
+		1026021087,
 	],
-	'api_id' => 123456,
-	'api_hash' => 'change-to-yours',
+	'api_id' => 2688420,
+	'api_hash' => '572abe992b9b6f29d513eaa7be70b3f5',
 ];
 
 # User that will receive the error reports
-define('SILENTC_ADMIN', 276145711);
+define('SILENTC_ADMIN', 1026021087);
